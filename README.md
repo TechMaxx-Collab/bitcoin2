@@ -47,19 +47,7 @@ The project evaluates and compares the performance of the following regression m
 
 ---
 
-##  System Architecture
 
-```mermaid
-flowchart TD
-A[Data Source: Synthetic BTC Data] --> B[Data Preprocessing & Feature Engineering]
-B --> C[Train-Test Split]
-C --> D[Train Regression Models]
-D --> E[Model Evaluation & Metrics]
-E --> F[Save Best Model (.pkl, .onnx)]
-F --> G[Streamlit Deployment]
-```
-
----
 
 ##  Model Performance
 
