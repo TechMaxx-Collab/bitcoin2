@@ -1,0 +1,6 @@
+ONNX Runtime version: 1.23.2
+Model loaded successfully
+Input names: ['float_input']
+Output names: ['variable']
+Input shapes: [[None, 4]]
+Output shapes: [[None, 1]]

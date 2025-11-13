@@ -1,0 +1,1 @@
+{"feature_cols": ["open", "high", "low", "close", "adj_close", "volume", "log_return", "return_1m", "ma_5", "ma_15", "ma_60", "volatility_60", "volume_ratio_60", "hour", "dayofweek", "day", "month", "lag_1", "lag_2", "lag_3", "lag_5", "lag_10", "lag_30", "lag_60"], "target_col": "target_next", "horizon": 1}
